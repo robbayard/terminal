@@ -1,0 +1,19 @@
+1. mkdir first
+2. cd first
+3. touch person.txt
+4. mv person.txt another.txt
+5. cp another.txt copy.txt
+6. rm copy.txt
+7. cp -r first second
+8. rm -rf second
+9. The man command is the manual which provides informaiton for commands. Q will exit you out of the manual
+10. -l list the files in long format. -a includes hidden files
+11. option left/right arrow key
+12. control e
+13. control a
+14. option delete
+15. The Terminal is just the interface. The shell is handles the commands
+16. Absolute path gievs the entire location of the folder
+17. Relative path starts at current location
+18. A flag adds additional use for a command: -a -l -r
+19. f is force removal and r will removes files 
